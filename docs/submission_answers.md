@@ -10,10 +10,10 @@ Students often forget what they found difficult, and ordinary chat assistants lo
 **Track 02 — Agent Memory and Coordination.** StudyMate implements persistent, structured agent memory: what the student studied and struggled with survives across sessions and directly changes the assistant's recommendations. It is a single assistant; it does **not** implement multi-agent coordination.
 
 ## Repository
-`<PASTE YOUR PUBLIC GITHUB REPO URL HERE>`
+https://github.com/dharanichanamolu-eng/studymate-ai
 
 ## Demo video
-`<PASTE YOUR REAL VIDEO URL HERE AFTER RECORDING>`
+https://youtu.be/ISYEpyCM_S4
 
 Recording checklist: empty fresh student ID → record Python loops session → show saved confirmation and sidebar → ask "What should I study next?" → show retrieved-memory reasoning and plan → explain the graph relationships → be honest about whether the fallback or an LLM answered → under 90 s.
 

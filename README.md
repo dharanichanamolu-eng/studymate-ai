@@ -178,7 +178,7 @@ The unit tests need no database. One graph integration test runs only if FalkorD
 - Recommendation ranks by difficulty, then report count, then recency.
 
 ## Demo video
-Link: _TO BE ADDED AFTER RECORDING_ (script: [docs/demo_script.md](docs/demo_script.md))
+Link:https://youtu.be/ISYEpyCM_S4 
 
 ## Submission
 Draft answers: [docs/submission_answers.md](docs/submission_answers.md)
